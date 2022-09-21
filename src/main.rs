@@ -1,3 +1,7 @@
+//use net_utils::show_my_ips;
+
 fn main() {
-    println!("Hello, world!");
+  //  show_my_ips();
+    println!("I love VIM");
 }
+
